@@ -1,12 +1,12 @@
 {
-"name": "arusei",
+"name": "victor",
 "version": "2.1.2",
-"description": "arusei has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "victor has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name arusei",
-"stop": "pm2 stop arusei",
-"restart": "pm2 restart arusei"
+"start": "pm2 start start.js --deep-monitoring --attach --name victor",
+"stop": "pm2 stop victor",
+"restart": "pm2 restart victor"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys6.6.0.git",
